@@ -1,0 +1,30 @@
+[
+    {
+        "package": "rainette",
+        "url": "https://github.com/juba/rainette"
+    },
+    {
+        "package": "explor",
+        "url": "https://github.com/juba/explor"
+    },
+    {
+        "package": "questionr",
+        "url": "https://github.com/juba/questionr"
+    },
+    {
+        "package": "rmdformats",
+        "url": "https://github.com/juba/rmdformats"
+    },
+    {
+        "package": "robservable",
+        "url": "https://github.com/juba/robservable"
+    },
+    {
+        "package": "scatterD3",
+        "url": "https://github.com/juba/scatterD3"
+    },
+    {
+        "package": "shinyglide",
+        "url": "https://github.com/juba/shinyglide"
+    }
+]
