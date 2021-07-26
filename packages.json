@@ -26,5 +26,9 @@
     {
         "package": "shinyglide",
         "url": "https://github.com/juba/shinyglide"
+    },
+    {
+        "package": "obsplot",
+        "url": "https://github.com/juba/obsplot"
     }
 ]
